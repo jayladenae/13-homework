@@ -4,7 +4,7 @@
 This is a backend e-commerce application. 
 
 ### User Guide
-
+```md
 GIVEN a functional Express.js API
 
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
@@ -26,7 +26,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 
 THEN I am able to successfully create, update, and delete data in my database
-
+```
 ### License
 ![MIT License](https://img.shields.io/apm/l/PACK?style=plastic)
 
